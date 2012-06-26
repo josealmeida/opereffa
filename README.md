@@ -1,4 +1,4 @@
 opereffa
 ========
 
-Public repository for Opereffa Project
+This is the public repository for Opereffa Project
